@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  .thi-bg {
+    @apply bg-white dark:bg-main-dark-bg;
+  }
+  .thi-text-color {
+    @apply text-main dark:text-main-dark;
+  }
+}

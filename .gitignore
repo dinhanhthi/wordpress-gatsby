@@ -102,3 +102,11 @@ dist
 
 # TernJS port file
 .tern-port
+
+public/
+
+src/gatsby-types.d.ts
+.env.production
+
+# Local Netlify folder
+.netlify
