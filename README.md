@@ -1,7 +1,6 @@
 # wordpress-gatsby
 
 - A step by step guide: [Build a website with Wordpress and Gatsby](https://dinhanhthi.com/build-a-website-using-wordpress-and-gatsby-1/).
-- A demo: https://wordpress-gatsby-demo.vercel.app/
 
 Requirements:
 
